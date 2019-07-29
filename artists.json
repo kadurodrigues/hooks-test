@@ -1,0 +1,258 @@
+{
+  "artists": [
+    {
+      "id": "01",
+      "name": "Artist_A",
+      "albums": [
+        {
+          "id": "011",
+          "name": "Album A1"
+        },
+        {
+          "id": "012",
+          "name": "Album A2"
+        },
+        {
+          "id": "013",
+          "name": "Album A3"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Artist_B",
+      "albums": [
+        {
+          "id": "021",
+          "name": "Album B1"
+        },
+        {
+          "id": "022",
+          "name": "Album B2"
+        },
+        {
+          "id": "023",
+          "name": "Album B3"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Artist_C",
+      "albums": [
+        {
+          "id": "031",
+          "name": "Album C1"
+        },
+        {
+          "id": "032",
+          "name": "Album C2"
+        },
+        {
+          "id": "033",
+          "name": "Album C3"
+        }
+      ]
+    }
+  ],
+  "albums": [
+    {
+      "id": "011",
+      "name": "album A1",
+      "artist": "Artist A",
+      "tracks": [
+        {
+          "id": "0111",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0112",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0113",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "012",
+      "name": "album A2",
+      "artist": "Artist A",
+      "tracks": [
+        {
+          "id": "0121",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0122",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0123",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "013",
+      "name": "album A3",
+      "artist": "Artist A",
+      "tracks": [
+        {
+          "id": "0131",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0132",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0133",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "021",
+      "name": "album B1",
+      "artist": "Artist B",
+      "tracks": [
+        {
+          "id": "0211",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0212",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0213",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "022",
+      "name": "album B2",
+      "artist": "Artist B",
+      "tracks": [
+        {
+          "id": "0221",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0222",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0223",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "023",
+      "name": "album B3",
+      "artist": "Artist B",
+      "tracks": [
+        {
+          "id": "0231",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0232",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0233",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "031",
+      "name": "album C1",
+      "artist": "Artist C",
+      "tracks": [
+        {
+          "id": "0311",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0312",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0313",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "032",
+      "name": "album C2",
+      "artist": "Artist C",
+      "tracks": [
+        {
+          "id": "0321",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0322",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0323",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    },
+    {
+      "id": "033",
+      "name": "album C3",
+      "artist": "Artist C",
+      "tracks": [
+        {
+          "id": "0331",
+          "name": "track 1",
+          "duration": "3:51"
+        },
+        {
+          "id": "0332",
+          "name": "track 2",
+          "duration": "3:48"
+        },
+        {
+          "id": "0333",
+          "name": "track 3",
+          "duration": "4:21"
+        }
+      ]
+    }
+  ]
+}
