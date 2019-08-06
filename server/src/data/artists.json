@@ -1,0 +1,126 @@
+[
+  {
+    "id": 10,
+    "name": "Guns N' Roses",
+    "albums": [
+      {
+        "id": 101,
+        "name": "Appetite for Destruction",
+        "cover": "https://bit.ly/2rCZmg7"
+      },
+      {
+        "id": 102,
+        "name": "G N' R Lies",
+        "cover": "https://bit.ly/2Nwbr4s"
+      },
+      {
+        "id": 103,
+        "name": "Use Your Illusion I",
+        "cover": "https://bit.ly/2XIBaus"
+      },
+      {
+        "id": 104,
+        "name": "Use Your Illusion II",
+        "cover": "https://bit.ly/2xtp09W"
+      },
+      {
+        "id": 105,
+        "name": "The Spaghetti Incident?",
+        "cover": "https://bit.ly/2ROQQ9Z"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Iron Maiden",
+    "albums": [
+      {
+        "id": 201,
+        "name": "The Number of the Beast",
+        "cover": "https://bit.ly/2NtAMw6"
+      },
+      {
+        "id": 202,
+        "name": "Piece of Mind",
+        "cover": "https://bit.ly/2LE2cfU"
+      },
+      {
+        "id": 203,
+        "name": "Somewhere in Time",
+        "cover": "https://bit.ly/2KVI9dA"
+      },
+      {
+        "id": 204,
+        "name": "Powerslave",
+        "cover": "https://bit.ly/2JfujPW"
+      },
+      {
+        "id": 205,
+        "name": "Fear of the Dark",
+        "cover": "https://bit.ly/1GxwB1U"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Led Zeppelin",
+    "albums": [
+      {
+        "id": 301,
+        "name": "Led Zeppelin",
+        "cover": "https://bit.ly/2LuhRhQ"
+      },
+      {
+        "id": 302,
+        "name": "Led Zeppelin II",
+        "cover": "https://bit.ly/2JkIROa"
+      },
+      {
+        "id": 303,
+        "name": "Houses of the Holy",
+        "cover": "https://bit.ly/325xNNt"
+      },
+      {
+        "id": 304,
+        "name": "Physical Graffiti",
+        "cover": "https://bit.ly/2KTFWz4"
+      },
+      {
+        "id": 305,
+        "name": "In Through the Out Door",
+        "cover": "https://bit.ly/2KTkiv2"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "The Beatles",
+    "albums": [
+      {
+        "id": 401,
+        "name": "Please Please Me",
+        "cover": "https://bit.ly/2NrTkNa"
+      },
+      {
+        "id": 402,
+        "name": "With the Beatles",
+        "cover": "https://bit.ly/2Xn3Utd"
+      },
+      {
+        "id": 403,
+        "name": "Help!",
+        "cover": "https://bit.ly/2XLhA0D"
+      },
+      {
+        "id": 404,
+        "name": "Rubber Soul",
+        "cover": "https://bit.ly/2YqEM1r"
+      },
+      {
+        "id": 405,
+        "name": "Sgt. Pepper's Lonely Hearts Club Band",
+        "cover": "https://bit.ly/2BTWGh1"
+      }
+    ]
+  }
+]

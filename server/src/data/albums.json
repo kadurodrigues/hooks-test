@@ -1,0 +1,682 @@
+[
+  {
+    "id": 101,
+    "name": "Appetite for Destruction",
+    "artist": "Guns N' Roses",
+    "cover": "https://bit.ly/2rCZmg7",
+    "tracks": [
+      {
+        "id": 1011,
+        "title": "Welcome to the Jungle",
+        "duration": "4:31"
+      },
+      {
+        "id": 1012,
+        "title": "It's So Easy",
+        "duration": "3:21"
+      },
+      {
+        "id": 1013,
+        "title": "Nightrain",
+        "duration": "4:26"
+      },
+      {
+        "id": 1014,
+        "title": "Out ta Get Me",
+        "duration": "4:20"
+      },
+      {
+        "id": 1015,
+        "title": "Mr. Brownstone",
+        "duration": "3:46"
+      },
+      {
+        "id": 1016,
+        "title": "Paradise City",
+        "duration": "6:46"
+      },
+      {
+        "id": 1017,
+        "title": "My Michelle",
+        "duration": "3:39"
+      },
+      {
+        "id": 1018,
+        "title": "Think About You",
+        "duration": "3:50"
+      },
+      {
+        "id": 1019,
+        "title": "Sweet Child O' Mine",
+        "duration": "5:55"
+      },
+      {
+        "id": 1010,
+        "title": "You're Crazy",
+        "duration": "3:16"
+      },
+      {
+        "id": 10111,
+        "title": "Anything Goes",
+        "duration": "3:25"
+      },
+      {
+        "id": 10112,
+        "title": "Rocket Queen",
+        "duration": "6:13"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "G N' R Lies",
+    "artist": "Guns N' Roses",
+    "cover": "https://bit.ly/2Nwbr4s",
+    "tracks": [
+      {
+        "id": 1021,
+        "title": "Reckless Life",
+        "duration": "3:23"
+      },
+      {
+        "id": 1022,
+        "title": "Nice Boys",
+        "duration": "3:01"
+      },
+      {
+        "id": 1023,
+        "title": "Move to the City",
+        "duration": "3:42"
+      },
+      {
+        "id": 1024,
+        "title": "Mama Kin",
+        "duration": "3:57"
+      },
+      {
+        "id": 1025,
+        "title": "Patience",
+        "duration": "5:56"
+      },
+      {
+        "id": 1026,
+        "title": "Used to Love Her",
+        "duration": "3:13"
+      },
+      {
+        "id": 1027,
+        "title": "You're Crazy",
+        "duration": "4:10"
+      },
+      {
+        "id": 1028,
+        "title": "One in a Million",
+        "duration": "6:09"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Use Your Illusion I",
+    "artist": "Guns N' Roses",
+    "cover": "https://bit.ly/2XIBaus",
+    "tracks": [
+      {
+        "id": 1031,
+        "title": "Right Next Door to Hell",
+        "duration": "3:02"
+      },
+      {
+        "id": 1032,
+        "title": "Dust N' Bones",
+        "duration": "4:58"
+      },
+      {
+        "id": 1033,
+        "title": "Live and Let Die",
+        "duration": "3:04"
+      },
+      {
+        "id": 1034,
+        "title": "Don't Cry",
+        "duration": "4:44"
+      },
+      {
+        "id": 1035,
+        "title": "Perfect Crime",
+        "duration": "2:23"
+      },
+      {
+        "id": 1036,
+        "title": "You Ain't the First",
+        "duration": "2:36"
+      },
+      {
+        "id": 1037,
+        "title": "Bad Obsession",
+        "duration": "5:28"
+      },
+      {
+        "id": 1038,
+        "title": "Back Off Bitch",
+        "duration": "5:03"
+      },
+      {
+        "id": 1039,
+        "title": "Double Talkin' Jive",
+        "duration": "3:23"
+      },
+      {
+        "id": 1030,
+        "title": "November Rain",
+        "duration": "8:57"
+      },
+      {
+        "id": 10301,
+        "title": "The Garden",
+        "duration": "5:22"
+      },
+      {
+        "id": 10302,
+        "title": "Garden of Eden",
+        "duration": "2:41"
+      },
+      {
+        "id": 10303,
+        "title": "Don't Damn Me",
+        "duration": "5:18"
+      },
+      {
+        "id": 10304,
+        "title": "Bad Apples",
+        "duration": "4:28"
+      },
+      {
+        "id": 10305,
+        "title": "Dead Horse",
+        "duration": "4:17"
+      },
+      {
+        "id": 10306,
+        "title": "Coma",
+        "duration": "10:13"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Use Your Illusion II",
+    "artist": "Guns N' Roses",
+    "cover": "https://bit.ly/2xtp09W",
+    "tracks": [
+      {
+        "id": 1041,
+        "title": "Civil War",
+        "duration": "7:42"
+      },
+      {
+        "id": 1042,
+        "title": "14 Years",
+        "duration": "4:21"
+      },
+      {
+        "id": 1043,
+        "title": "Yesterdays",
+        "duration": "3:14"
+      },
+      {
+        "id": 1044,
+        "title": "Knockin' on Heaven's Door",
+        "duration": "5:36"
+      },
+      {
+        "id": 1045,
+        "title": "Get in the Ring",
+        "duration": "5:42"
+      },
+      {
+        "id": 1046,
+        "title": "Shotgun Blues",
+        "duration": "3:23"
+      },
+      {
+        "id": 1047,
+        "title": "Breakdown",
+        "duration": "7:04"
+      },
+      {
+        "id": 1048,
+        "title": "Pretty Tied Up",
+        "duration": "4:48"
+      },
+      {
+        "id": 1049,
+        "title": "Locomotive",
+        "duration": "8:42"
+      },
+      {
+        "id": 1040,
+        "title": "So Fine",
+        "duration": "4:08"
+      },
+      {
+        "id": 10401,
+        "title": "Estranged",
+        "duration": "9:23"
+      },
+      {
+        "id": 10402,
+        "title": "You Could Be Mine",
+        "duration": "5:43"
+      },
+      {
+        "id": 10403,
+        "title": "Don't Cry (Alt. Lyrics)",
+        "duration": "4:45"
+      },
+      {
+        "id": 10404,
+        "title": "My World",
+        "duration": "1:24"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "The Spaghetti Incident?",
+    "artist": "Guns N' Roses",
+    "cover": "https://bit.ly/2ROQQ9Z",
+    "tracks": [
+      {
+        "id": 1051,
+        "title": "Since I Don't Have You",
+        "duration": "4:20"
+      },
+      {
+        "id": 1052,
+        "title": "New Rose",
+        "duration": "2:38"
+      },
+      {
+        "id": 1053,
+        "title": "Down on the Farm",
+        "duration": "3:29"
+      },
+      {
+        "id": 1054,
+        "title": "Human Being",
+        "duration": "6:48"
+      },
+      {
+        "id": 1055,
+        "title": "Raw Power",
+        "duration": "3:12"
+      },
+      {
+        "id": 1056,
+        "title": "Ain't It Fun",
+        "duration": "5:06"
+      },
+      {
+        "id": 1057,
+        "title": "Buick Makane (Big Dumb Sex)",
+        "duration": "2:40"
+      },
+      {
+        "id": 1058,
+        "title": "Hair of the Dog",
+        "duration": "3:55"
+      },
+      {
+        "id": 1059,
+        "title": "Attitude",
+        "duration": "1:27"
+      },
+      {
+        "id": 1050,
+        "title": "Black Leather",
+        "duration": "4:09"
+      },
+      {
+        "id": 10501,
+        "title": "You Can't Put Your Arms Around a Memory",
+        "duration": "3:35"
+      },
+      {
+        "id": 10502,
+        "title": "I Don't Care About You",
+        "duration": "2:07"
+      },
+      {
+        "id": 10503,
+        "title": "Look at Your Game, Girl",
+        "duration": "2:34"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "name": "The Number of the Beast",
+    "artist": "Iron Maiden",
+    "cover": "https://bit.ly/2NtAMw6",
+    "tracks": [
+      {
+        "id": 2011,
+        "title": "Invaders",
+        "duration": "3:20"
+      },
+      {
+        "id": 2012,
+        "title": "Children of the Damned",
+        "duration": "4:34"
+      },
+      {
+        "id": 2013,
+        "title": "The Prisoner",
+        "duration": "5:34"
+      },
+      {
+        "id": 2014,
+        "title": "22 Acacia Avenue",
+        "duration": "6:34"
+      },
+      {
+        "id": 2015,
+        "title": "The Number of the Beast",
+        "duration": "4:25"
+      },
+      {
+        "id": 2016,
+        "title": "Run to the Hills",
+        "duration": "3:50"
+      },
+      {
+        "id": 2017,
+        "title": "Gangland",
+        "duration": "3:46"
+      },
+      {
+        "id": 2018,
+        "title": "Hallowed Be Thy Name",
+        "duration": "7:08"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Piece of Mind",
+    "artist": "Iron Maiden",
+    "cover": "https://bit.ly/2LE2cfU",
+    "tracks": [
+      {
+        "id": 2021,
+        "title": "Where Eagles Dare",
+        "duration": "6:08"
+      },
+      {
+        "id": 2022,
+        "title": "Revelations",
+        "duration": "6:51"
+      },
+      {
+        "id": 2023,
+        "title": "Flight of Icarus",
+        "duration": "3:49"
+      },
+      {
+        "id": 2024,
+        "title": "Die with Your Boots On",
+        "duration": "5:22"
+      },
+      {
+        "id": 2025,
+        "title": "The Trooper",
+        "duration": "4:10"
+      },
+      {
+        "id": 2026,
+        "title": "Still Life",
+        "duration": "4:27"
+      },
+      {
+        "id": 2027,
+        "title": "Quest for Fire",
+        "duration": "3:40"
+      },
+      {
+        "id": 2028,
+        "title": "Sun and Steel",
+        "duration": "3:25"
+      },
+      {
+        "id": 2029,
+        "title": "To Tame a Land",
+        "duration": "7:26"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Somewhere in Time",
+    "artist": "Iron Maiden",
+    "cover": "https://bit.ly/2KVI9dA",
+    "tracks": [
+      {
+        "id": 2031,
+        "title": "Caught Somewhere in Time",
+        "duration": "7:22"
+      },
+      {
+        "id": 2032,
+        "title": "Wasted Years",
+        "duration": "5:06"
+      },
+      {
+        "id": 2033,
+        "title": "Sea of Madness",
+        "duration": "5:42"
+      },
+      {
+        "id": 2034,
+        "title": "Heaven Can Wait",
+        "duration": "7:24"
+      },
+      {
+        "id": 2035,
+        "title": "The Loneliness of the Long Distance Runner",
+        "duration": "6:31"
+      },
+      {
+        "id": 2036,
+        "title": "Stranger in a Strange Land",
+        "duration": "5:43"
+      },
+      {
+        "id": 2037,
+        "title": "Déjà-Vu",
+        "duration": "4:55"
+      },
+      {
+        "id": 2038,
+        "title": "Alexander the Great (356-323 B.C.)",
+        "duration": "8:35"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Powerslave",
+    "artist": "Iron Maiden",
+    "cover": "https://bit.ly/2JfujPW",
+    "tracks": [
+      {
+        "id": 2041,
+        "title": "Aces High",
+        "duration": "4:31"
+      },
+      {
+        "id": 2042,
+        "title": "2 Minutes to Midnight",
+        "duration": "6:04"
+      },
+      {
+        "id": 2043,
+        "title": "Losfer Words (Big 'Orra)",
+        "duration": "4:15"
+      },
+      {
+        "id": 2044,
+        "title": "Flash of the Blade",
+        "duration": "4:05"
+      },
+      {
+        "id": 2045,
+        "title": "The Duellists",
+        "duration": "6:08"
+      },
+      {
+        "id": 2046,
+        "title": "Back in the Village",
+        "duration": "5:02"
+      },
+      {
+        "id": 2047,
+        "title": "Powerslave",
+        "duration": "7:12"
+      },
+      {
+        "id": 2048,
+        "title": "Rime of the Ancient Mariner",
+        "duration": "13:45"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Fear of the Dark",
+    "artist": "Iron Maiden",
+    "cover": "https://bit.ly/1GxwB1U",
+    "tracks": [
+      {
+        "id": 2051,
+        "title": "Be Quick or Be Dead",
+        "duration": "3:21"
+      },
+      {
+        "id": 2052,
+        "title": "From Here to Eternity",
+        "duration": "3:35"
+      },
+      {
+        "id": 2053,
+        "title": "Afraid to Shoot Strangers",
+        "duration": "6:52"
+      },
+      {
+        "id": 2054,
+        "title": "Fear Is the Key",
+        "duration": "5:30"
+      },
+      {
+        "id": 2055,
+        "title": "Childhood's End",
+        "duration": "4:37"
+      },
+      {
+        "id": 2056,
+        "title": "Wasting Love",
+        "duration": "5:46"
+      },
+      {
+        "id": 2057,
+        "title": "The Fugitive",
+        "duration": "4:52"
+      },
+      {
+        "id": 2058,
+        "title": "Chains of Misery",
+        "duration": "3:33"
+      },
+      {
+        "id": 2059,
+        "title": "The Apparition",
+        "duration": "3:53"
+      },
+      {
+        "id": 2050,
+        "title": "Judas Be My Guide",
+        "duration": "3:06"
+      },
+      {
+        "id": 20501,
+        "title": "Weekend Warrior",
+        "duration": "5:37"
+      },
+      {
+        "id": 20502,
+        "title": "Fear of the Dark",
+        "duration": "7:16"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Led Zeppelin",
+    "artist": "Led Zeppelin",
+    "cover": "https://bit.ly/2LuhRhQ"
+  },
+  {
+    "id": 302,
+    "name": "Led Zeppelin II",
+    "artist": "Led Zeppelin",
+    "cover": "https://bit.ly/2JkIROa"
+  },
+  {
+    "id": 303,
+    "name": "Houses of the Holy",
+    "artist": "Led Zeppelin",
+    "cover": "https://bit.ly/325xNNt"
+  },
+  {
+    "id": 304,
+    "name": "Physical Graffiti",
+    "artist": "Led Zeppelin",
+    "cover": "https://bit.ly/2KTFWz4"
+  },
+  {
+    "id": 305,
+    "name": "In Through the Out Door",
+    "artist": "Led Zeppelin",
+    "cover": "https://bit.ly/2KTkiv2"
+  },
+  {
+    "id": 401,
+    "name": "Please Please Me",
+    "artist": "The Beatles",
+    "cover": "https://bit.ly/2NrTkNa"
+  },
+  {
+    "id": 402,
+    "name": "With the Beatles",
+    "artist": "The Beatles",
+    "cover": "https://bit.ly/2Xn3Utd"
+  },
+  {
+    "id": 403,
+    "name": "Help!",
+    "artist": "The Beatles",
+    "cover": "https://bit.ly/2XLhA0D"
+  },
+  {
+    "id": 404,
+    "name": "Rubber Soul",
+    "artist": "The Beatles",
+    "cover": "https://bit.ly/2YqEM1r"
+  },
+  {
+    "id": 405,
+    "name": "Sgt. Pepper's Lonely Hearts Club Band",
+    "artist": "The Beatles",
+    "cover": "https://bit.ly/2BTWGh1"
+  }
+]
